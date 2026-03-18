@@ -7,5 +7,14 @@
     "icon_count": 150,
     "download_url": "https://github.com/MixlarLabs/mixlar-icons/releases/download/v1.0/mixlar-icon-pack-v1.zip",
     "size_bytes": 298191
+  },
+  {
+    "id": "bambu-studio",
+    "name": "Bambu Studio Icons",
+    "version": "1.0",
+    "description": "57 icons for Bambu Studio shortcuts",
+    "icon_count": 57,
+    "download_url": "https://github.com/MixlarLabs/mixlar-icons/releases/download/bambu-v1.0/bambu-studio-icons-v1.zip",
+    "size_bytes": 34921
   }
 ]
