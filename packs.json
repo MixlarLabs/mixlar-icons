@@ -14,6 +14,7 @@
     "version": "1.0",
     "description": "57 icons for Bambu Studio shortcuts",
     "icon_count": 57,
+    "plugin_id": "bambu_studio",
     "download_url": "https://github.com/MixlarLabs/mixlar-icons/releases/download/bambu-v1.0/bambu-studio-icons-v1.zip",
     "size_bytes": 38094
   }
